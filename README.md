@@ -6,5 +6,5 @@
 
 ## yi-server目录是node + mongoDB的服务端
 ### 运行命令
-   npm install
-   npm run start
+    npm install
+    npm run start
