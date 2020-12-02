@@ -67,7 +67,7 @@
 				position: absolute;
 				top: 2.5rem;
 				left: 30px;
-				z-index: 9999;
+				// z-index: 9999;
 				.iconfont{
 					font-size: 30px;
 					color: #FFFFFF;
