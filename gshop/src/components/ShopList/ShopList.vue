@@ -17,7 +17,6 @@
 					<section class="shop_rating_order">
 						<section class="shop_rating_order_left">
 							<div class="rating_section">
-								<!-- <van-rate v-model="shop.rating" color="#ffd21e" :size="15" allow-half void-icon="star"/> -->
 								<Star :score="shop.rating" :size="24"/>
 								<span>{{shop.rating}}</span>
 							</div>

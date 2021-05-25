@@ -69,7 +69,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "2120.1公里",
+    "distance": "2.1公里",
     "order_lead_time": "31小时24分钟",
     "description": "sad",
     "delivery_mode": {
@@ -151,7 +151,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "1010.3公里",
+    "distance": "1.3公里",
     "order_lead_time": "21小时7分钟",
     "description": "描述性内容1",
     "delivery_mode": {
@@ -242,7 +242,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "1167.4公里",
+    "distance": "1.4公里",
     "order_lead_time": "19小时1分钟",
     "description": "",
     "delivery_mode": {
@@ -333,7 +333,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "2128.8公里",
+    "distance": "2.8公里",
     "order_lead_time": "32小时14分钟",
     "description": "大树旗舰店大树旗舰店大树旗舰店简介",
     "delivery_mode": {
@@ -424,7 +424,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "2123公里",
+    "distance": "3公里",
     "order_lead_time": "31小时26分钟",
     "description": "喝早茶好去处",
     "delivery_mode": {
@@ -515,7 +515,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "2121.6公里",
+    "distance": "2.6公里",
     "order_lead_time": "31小时26分钟",
     "description": "3",
     "delivery_mode": {
@@ -606,7 +606,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "797.7公里",
+    "distance": "1.7公里",
     "order_lead_time": "15小时48分钟",
     "description": "",
     "delivery_mode": {
@@ -689,7 +689,7 @@
     },
     "float_minimum_order_amount": 50,
     "float_delivery_fee": 5,
-    "distance": "2167.4公里",
+    "distance": "2.4公里",
     "order_lead_time": "35小时3分钟",
     "description": "正宗川菜",
     "delivery_mode": {
@@ -788,7 +788,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "42.1公里",
+    "distance": "4.1公里",
     "order_lead_time": "1小时47分钟",
     "description": "13131",
     "delivery_mode": {
@@ -978,7 +978,7 @@
     },
     "float_minimum_order_amount": 20,
     "float_delivery_fee": 5,
-    "distance": "1195.5公里",
+    "distance": "5.5公里",
     "order_lead_time": "21小时4分钟",
     "description": "618618",
     "delivery_mode": {

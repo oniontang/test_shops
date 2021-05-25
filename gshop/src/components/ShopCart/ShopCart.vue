@@ -38,12 +38,10 @@
 				</div>
 			</transition>
 		</div>
-		<!-- <div class="list-mask" v-show="listShow" @click="toggleIsShow"></div> -->
 	</div>
 </template>
 
 <script>
-	
 	import BScroll from 'better-scroll'
 	import {
 		mapState,

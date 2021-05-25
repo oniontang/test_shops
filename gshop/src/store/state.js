@@ -1,7 +1,7 @@
 // state 状态对象
 export default {
-	latitude: 31.275788, // 纬度
-	longitude: 121.603368, // 经度
+	latitude: 32.148908, // 纬度
+	longitude: 114.0419, // 经度
 	address: {}, // 地址相关信息对象
 	categorys: [], // 食品分类数组
 	shops: [], // 商家数组
